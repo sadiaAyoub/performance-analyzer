@@ -1,8 +1,11 @@
 **Student Test Performance Analysis**
 **Project Overview**
+
 The goal of this project is to analyze student test performance across various schools within a given dataset. The analysis focuses on comparing a specific school to other schools within the dataset, using selected features or measures of performance.
 
 **Objectives**
+
+
 Select an Initial School: Choose any school from the dataset to serve as the primary point of comparison.
 Choose a Feature/Measure/Score: Identify a specific feature or measure to base the comparison on.
 **Comparison Points:**
