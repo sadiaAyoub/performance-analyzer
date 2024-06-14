@@ -17,6 +17,8 @@ Alternatively, compare the selected school to schools in a specific borough or d
 **Conclusion:** Summarize the analysis with a brief conclusion statement (two to three sentences).
 
 **Steps to Complete the Analysis**
+
+
 Data Selection and Preparation
 Load the dataset.
 Select the initial school for comparison.
@@ -34,5 +36,7 @@ Conclusion
 Write a concise conclusion summarizing the key findings of the analysis.
 
 **Conclusion**
+
+
 This project provides a comprehensive analysis of student test performance by comparing a selected school to others in the dataset. The insights gained can help identify patterns and areas for improvement in educational outcomes.
 
